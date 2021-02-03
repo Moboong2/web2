@@ -1,0 +1,67 @@
+.div-scoreboard{
+    width: 400px;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 2px;
+    color: cornsilk;
+}
+
+.div-scoreboard.inner{
+    margin: auto;
+    border: 2px solid darkorange;
+    box-sizing: border-box;
+}
+
+.div-shots-left{
+    margin-top: 10px;
+}
+#shots-left{
+    background-color: #bb6666;
+    padding: 4px 4px 2px;
+}
+
+.div-score{
+    display: inline-block;
+    border: 1px solid cyan;
+    padding: 10px 40px 10px;
+    margin: 10px;
+    width: 20%;
+}
+
+.div-score-name{
+    font-size: 25px;
+}
+
+.div-score-number{
+    font-size: 50px;
+    color: #000000;
+    background-color: darkolivegreen;
+    width: 100%;
+    line-height: 50px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+#text{
+    height: 30px;
+    color: rgb(81, 14, 168);
+}
+
+
+button{
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.div-panel{
+    width: 400px;
+    background-color: rgb(3, 119, 65);
+    text-align: center;
+    padding: 2px;
+    color: floralwhite;
+}
+
+.div-control-name{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
